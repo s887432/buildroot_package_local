@@ -5,7 +5,7 @@
 ################################################################################
 
 HELLOWORLD_VERSION = 1.0
-HELLOWORLD_SITE = /packages/helloworld/src
+HELLOWORLD_SITE = /packages/buildroot_helloworld
 HELLOWORLD_SITE_METHOD = local # Other methods like git,wget,scp,file etc. are also available.
 
 define HELLOWORLD_BUILD_CMDS
