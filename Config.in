@@ -1,0 +1,6 @@
+config BR2_PACKAGE_HELLOWORLD
+    bool "helloworld"
+    help
+        buildroot test package.
+
+        https://www.linux4sam.org
